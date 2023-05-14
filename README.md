@@ -22,8 +22,6 @@ git clone https://github.com/All-Khwarizmi/30daysOfJavaScript
 - cd into the JavaScript directory and npm install 
 ```
 cd JavaScript 
-OR
-cd Typescript
 AND 
 npm install
 ```
