@@ -1,0 +1,19 @@
+{
+  "name": "30days-of-js",
+  "version": "1.0.0",
+  "description": "Solve locally dayly JavaScript problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript",
+    "Leetcode",
+    "challenge"
+  ],
+  "author": "Jason Suárez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
