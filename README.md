@@ -1,6 +1,6 @@
 # 30 days of JavaScript Leetcode challenge locally
 
-<h3 style={color: red}>Work in progress </h3>
+<h3 style="color: red;">Work in progress </h3>
 <br>  
 
 <img src="https://ik.imagekit.io/montresor/30daysJS/30dayshero.png?updatedAt=1684061770950" alt="Landing page of Recal" width="1000">
