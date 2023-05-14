@@ -57,3 +57,5 @@ You can also run jest locally by running npm run test inside the JavaScript dire
 ```
 npm run test
 ```
+
+## Happy coding 🫡
