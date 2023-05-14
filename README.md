@@ -19,7 +19,7 @@
 ```
 git clone https://github.com/All-Khwarizmi/30daysOfJavaScript
 ```
-- cd into the JavaScript of Typescript directory and npm install 
+- cd into the JavaScript directory and npm install 
 ```
 cd JavaScript 
 OR
