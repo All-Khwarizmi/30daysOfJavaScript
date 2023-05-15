@@ -1,4 +1,4 @@
-const createCounter = require('./day3').createCounter;
+const createCounter = require("./day3").createCounter;
 
 test(`
 Write a function createCounter. It should accept an initial integer init. It should return an object with three functions.
