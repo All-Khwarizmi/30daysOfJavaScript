@@ -33,7 +33,7 @@ We check if the array passed as argument is empty and, if so, early return the i
 
 **Step 2**
 
-We decalre a variable val and we assign the value of init to it. Then we loop over the nums array. We update the variable val with the result of the evaluation of the callback function invoked with val and the value of the nums array at the given iteration (item). 
+We declare a variable val and assign the value of init to it. Then we loop over the nums array. We update the variable val with the result of the evaluation of the callback function invoked with val and the value of the nums array at the given iteration (item). 
 
 <br>
 
