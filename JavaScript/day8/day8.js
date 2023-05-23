@@ -2,7 +2,7 @@
  * @param {Function} fn
  * @return {Function}
  */
-var once = function (fn) {
+module.exports.once = function (fn) {
   return function (...args) {};
 };
 
