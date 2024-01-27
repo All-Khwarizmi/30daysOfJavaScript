@@ -16,11 +16,11 @@
 ## Usage 
 
 - Clone this repo
-```
+```bash
 git clone https://github.com/All-Khwarizmi/30daysOfJavaScript
 ```
 - cd into the JavaScript directory and npm install 
-```
+```bash
 cd JavaScript 
 AND 
 npm install
@@ -42,7 +42,7 @@ For each day you have :
 - Jest CLI (RECOMMENDED)
   
 If you have installed Jest globally, you can test each day problem individually by running jest day(n).test or all of them at the same time by just running jest
-```
+```javascript
 jest day1.test
 
 OR 
@@ -53,7 +53,7 @@ jest
 - Jest locally
 
 You can also run jest locally by running npm run test inside the JavaScript directory
-```
+```bash
 npm run test
 ```
 
