@@ -2,7 +2,7 @@
 
 <br>
 
-```
+```javascript
 /**
  * @param {Function} fn
  * @return {Function}
