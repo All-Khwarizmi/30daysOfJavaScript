@@ -1,6 +1,6 @@
 # Solution
 
-```
+```javascript
 type F = (x: number) => number | null;
 
 function compose(functions: F[]): F {
